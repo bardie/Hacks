@@ -19,6 +19,6 @@ A Simple letter substitution cipher that replaces a letter with the 13th letter 
 |   L  |   Y   |
 |   M  |   Z   |
 
+Example: `PASSWORD` == `CNFFJBEQ`
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+Linux Command: `echo CNFFJBEQ | tr '[A-Za-z]' 'M-ZA-Nm-za-n'`
