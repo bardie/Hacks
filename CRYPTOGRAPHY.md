@@ -35,6 +35,7 @@ Linux Command: `echo CNFFJBEQ | tr '[A-Za-z]' 'M-ZA-Nm-za-n'`
 It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet
 
 EXAMPLE: SHIFT 1
+
 |      |       |
 | ---- |:-----:|
 |   A  |   B   |
